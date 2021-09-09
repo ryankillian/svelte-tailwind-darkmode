@@ -30,8 +30,8 @@
 		 text-green-700 dark:text-green-300 hover:bg-indigo-300 dark:hover:bg-indigo-700">Click me!</button>
 	</nav>
   </header>
-  <main class="p-5 flex-grow flex justify-center items-center flex-col bg-indigo-100 
-  dark:bg-indigo-800 text-green-900 dark:text-green-300">
+  <main class="p-5 flex-grow flex justify-center items-center flex-col 
+  bg-indigo-100 dark:bg-indigo-800 text-green-900 dark:text-green-300">
     <div>
       <h1 class="text-2xl">Who turned out the lights?</h1>
     </div>
