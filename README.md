@@ -24,9 +24,7 @@ npm run build
 ```
 ## Running in production mode
 
-### With [surge](https://surge.sh/)
-
-Install `surge` if you haven't already:
+Install [surge](https://surge.sh/) if you haven't already:
 
 ```bash
 npm install -g surge
