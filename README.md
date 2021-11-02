@@ -17,7 +17,7 @@ npm install
 npm run dev
 ```
 
-## Building for production
+## Build for production
 
 ```bash
 npm run build
